@@ -41,12 +41,13 @@ on the very first method, saveUser() there is a commented line:
 just uncomment it, run the app, and the very next user that is created in the database through the REST server will be an ADMIN account!
 **REMEMBER** to comment it out again unless you want everyone to have admin rights.
 
-- **Swagger docs for REST server**
+
 ```http://localhost:8080/swagger-ui/index.html```
 - finally:
 ```
 ./gradlew bootRun
 ```
+- **Swagger docs for REST server**
 ### Frontend Requirements
 -Node.js
 Install the latest stable version of Node.js, which includes npm (Node Package Manager).
