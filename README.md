@@ -26,7 +26,7 @@ there's a commented out line on application-test properties:
 #spring.sql.init.mode=always
 #spring.sql.init.data-locations=classpath:sql/countries.sql,classpath:sql/countries.sql
 ```
-make sure to uncomment it when you first run spring so that it will create the countries database and then comment it again!
+make sure to uncomment it when you first run spring so that it will create the countries table with data and then comment it again!
 
 - **IMPORTANT!!**
 for security reasons, you need to manually add a user with role = ADMIN in the database. However since there's password encoding aswell this is cumbersome.
