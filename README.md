@@ -74,6 +74,7 @@ ng serve
 
 ### **App Features**
 - REST provides authorization through login and authentication through checking user roles. Same goes through the frontend as there are authorization interceptors to handle user access and admin access to pages.
+- Password Encoding in the database. Nobody may see other people's password, not even the database user.
 - JWT based authentication for everything. Tokens last 3 hours, but its very easy to configure that amount of time,based on the developer's preference! (JwtService)
 - This is evident through the swagger docs, but there are all the expected CRUD operations for such an application. Some require admin rights and some require simple authentication, or either. REST backend may be used as basis for other similar applications and was designed with that in mind.
 - Users get a seamless and modern experience, never seeing an error page. The frontend client handles are non-authorized requests gracefully.
