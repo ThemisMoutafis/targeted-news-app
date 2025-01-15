@@ -1,7 +1,7 @@
-# My App
+# Custom-Newsfeed-Application
 
 ## Overview
-**My App** is a web-based application designed to serve the user relevant, up to date news based on his country which he signed up with. It features user account management, a seamless experience, and an admin-account-only page with extra functionalities, such as deactivating or deleting users.
+**Custom Newsfeed Application** is a web-based application designed to serve the user relevant, up to date news based on his country which he signed up with. It features user account management, a seamless experience, and an admin-account-only page with extra functionalities, such as deactivating or deleting users.
 The project is divided into two main components:
 - **Frontend**: Built using Angular.
 - **Backend**: Developed with Java 17, with a MySQL database for data storage.
