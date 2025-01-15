@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ThemisMoutafis/backend-Crud-Api.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ThemisMoutafis/myFrontend-Angular.git
