@@ -17,7 +17,7 @@ To run this application,after pulling both repositories, you will need the follo
   ```
   java -version
   ```
--MySQL
+- MySQL
 A running MySQL server is required. Create a database and configure the connection in the backend project.
 Use your connection string, username and password for mySQL on the application-test.properties file ( or application.properties, if you disable the spring.rpfoiles.active = test line )
 - **IMPORTANT!!**
