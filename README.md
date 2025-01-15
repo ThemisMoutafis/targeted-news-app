@@ -42,12 +42,13 @@ just uncomment it, run the app, and the very next user that is created in the da
 **REMEMBER** to comment it out again unless you want everyone to have admin rights.
 
 
-```http://localhost:8080/swagger-ui/index.html```
+
 - finally:
 ```
 ./gradlew bootRun
 ```
 - **Swagger docs for REST server**
+- ```http://localhost:8080/swagger-ui/index.html```
 ### Frontend Requirements
 -Node.js
 Install the latest stable version of Node.js, which includes npm (Node Package Manager).
