@@ -1,4 +1,4 @@
-# Custom-Newsfeed-Application
+# Custom Newsfeed Application
 
 ## Overview
 **Custom Newsfeed Application** is a web-based application designed to serve the user relevant, up to date news based on his country which he signed up with. It features user account management, a seamless experience, and an admin-account-only page with extra functionalities, such as deactivating or deleting users.
